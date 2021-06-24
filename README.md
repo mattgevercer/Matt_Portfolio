@@ -7,13 +7,13 @@ My Programming and Data Science Portfolio
 * Achieved over 98% accuracy in classifying handwritten digits.
 * [Click here for dataset documentation](http://yann.lecun.com/exdb/mnist/)
 
-![](https://github.com/mattgevercer/Matt_Portfolio/blob/main/images/Digits%20Figure.png)
+![](/images/Digits%20Figure.png)
 
-## [Project 2: Predicted House Prices](https://github.com/mattgevercer/Cali_Housing)
+## [Project 2: Predicting House Prices](https://github.com/mattgevercer/Cali_Housing)
 * A dense neural network to predict the price of houses in California. 
 * Splits housing data into training and testing sets. 
 * Utilizes a callback to stop training once MSE loss has dropped below 0.5. 
 * Visualizes training loss versus validation loss over the epochs to guage overfitting in model. 
 * [Click here for dataset documentation](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
 
-![](https://github.com/mattgevercer/Matt_Portfolio/blob/main/images/Housing%20Figure.png)
+![](/images/Housing%20Figure.png)
