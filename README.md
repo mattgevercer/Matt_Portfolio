@@ -17,3 +17,14 @@ My Programming and Data Science Portfolio
 * [Click here for dataset documentation](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
 
 ![Housing Image](./images/Housing%20Figure.png?raw=true)
+
+## [Project 3: PageRank](https://github.com/mattgevercer/PageRank)
+* A program that ranks web pages based on importance for use in a search engine. 
+* Samples states randomly from a Markov Chain to estimate each page's rank. 
+* [Click here for in-depth project description](https://cs50.harvard.edu/ai/2020/projects/2/pagerank/)
+
+## [Project 4: Degrees](https://github.com/mattgevercer/Degrees)
+* Finds the shortest path between any two actors using a breadth-first search algorithm. 
+* Returns the "path" (i.e. the films where two connected actors appeared with eachother). 
+* Returns the "steps" in the path (i.e. the number of degrees between the two actors). 
+* [Click here for in-depth project description](https//cs50.harvard.edu/ai/2020/projects/0/degrees/)
