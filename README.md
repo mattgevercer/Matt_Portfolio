@@ -1,7 +1,7 @@
 # Matt_Portfolio
 My Programming and Data Science Portfolio
 
-##[Project 1: Classifying Handwritten Digits](https://github.com/mattgevercer/Digit-Recognition)
+## [Project 1: Classifying Handwritten Digits](https://github.com/mattgevercer/Digit-Recognition)
 * A computer vision program that shows the difference in accuracy for guessing handwritten digits between a regular dense neural network and a convolutional dense neural network. 
 * Visualizes how accuracy of predicting validation data improves over epochs. 
 * Achieved over 98% accuracy in classifying handwritten digits.
@@ -9,7 +9,7 @@ My Programming and Data Science Portfolio
 
 ![](https://github.com/mattgevercer/Matt_Portfolio/blob/main/images/Digits%20Figure.png)
 
-##[Project 2: Predicted House Prices](https://github.com/mattgevercer/Cali_Housing)
+## [Project 2: Predicted House Prices](https://github.com/mattgevercer/Cali_Housing)
 * A dense neural network to predict the price of houses in California. 
 * Splits housing data into training and testing sets. 
 * Utilizes a callback to stop training once MSE loss has dropped below 0.5. 
