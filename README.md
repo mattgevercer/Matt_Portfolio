@@ -13,7 +13,7 @@ My Programming and Data Science Portfolio
 * A dense neural network to predict the price of houses in California. 
 * Splits housing data into training and testing sets. 
 * Utilizes a callback to stop training once MSE loss has dropped below 0.5. 
-* Visualizes training loss versus validation loss over the epochs to guage overfitting in model. 
+* Visualizes training loss versus validation loss over the epochs to gauge overfitting in model. 
 * [Click here for dataset documentation](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
 
 ![Housing Image](./images/Housing%20Figure.png?raw=true)
