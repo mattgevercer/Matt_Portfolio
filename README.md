@@ -4,6 +4,7 @@ My Programming and Data Science Portfolio
 #[Project 1: Classifying Handwritten Digits](https://github.com/mattgevercer/Digit-Recognition)
 * A computer vision program that shows the difference in accuracy for guessing handwritten digits between a regular dense neural network and a convolutional dense neural network. 
 * Visualizes how accuracy of predicting validation data improves over epochs. 
+* Achieved over 98% accuracy in classifying handwritten digits.
 * [Click here for dataset documentation](http://yann.lecun.com/exdb/mnist/)
 
 ![](https://github.com/mattgevercer/Matt_Portfolio/blob/main/images/Digits%20Figure.png)
