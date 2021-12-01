@@ -1,7 +1,12 @@
 # Matt_Portfolio
 My Programming and Data Science Portfolio
 
-## [Project 1: Classifying Handwritten Digits](https://github.com/mattgevercer/Digit-Recognition)
+## [Project 1: NCAA Unbiased Rankings](https://github.com/mattgevercer/Computing-and-Machine-Learning-for-Economics/tree/main/ColleyRank)
+* Adapted Colley's unbiased method for ranking college football teams into python code using 2 different algorithms.
+* Wrote python code that scrapes historical NCAA football data from the web. 
+* [Click here for full description of the Colley Method](https://www.colleyrankings.com/matrate.pdf)
+
+## [Project 2: Classifying Handwritten Digits](https://github.com/mattgevercer/Digit-Recognition)
 * A computer vision program that shows the difference in accuracy for guessing handwritten digits between a regular dense neural network and a convolutional dense neural network. 
 * Visualizes how accuracy of predicting validation data improves over epochs. 
 * Achieved over 98% accuracy in classifying handwritten digits.
@@ -9,7 +14,7 @@ My Programming and Data Science Portfolio
 
 ![Digit Image](./images/Digits%20Figure.png?raw=true)
 
-## [Project 2: Predicting House Prices](https://github.com/mattgevercer/Cali_Housing)
+## [Project 3: Predicting House Prices](https://github.com/mattgevercer/Cali_Housing)
 * A dense neural network to predict the price of houses in California. 
 * Splits housing data into training and testing sets. 
 * Utilizes a callback to stop training once MSE loss has dropped below 0.5. 
@@ -18,12 +23,12 @@ My Programming and Data Science Portfolio
 
 ![Housing Image](./images/Housing%20Figure.png?raw=true)
 
-## [Project 3: PageRank](https://github.com/mattgevercer/PageRank)
+## [Project 4: PageRank](https://github.com/mattgevercer/PageRank)
 * A program that ranks web pages based on importance for use in a search engine. 
 * Samples states randomly from a Markov Chain to estimate each page's rank. 
 * [Click here for in-depth project description](https://cs50.harvard.edu/ai/2020/projects/2/pagerank/)
 
-## [Project 4: Degrees](https://github.com/mattgevercer/Degrees)
+## [Project 5: Degrees](https://github.com/mattgevercer/Degrees)
 * Finds the shortest path between any two actors using a breadth-first search algorithm. 
 * Returns the "path" (i.e. the films where two connected actors appeared with eachother). 
 * Returns the "steps" in the path (i.e. the number of degrees between the two actors). 
