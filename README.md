@@ -1,12 +1,21 @@
 # Matt_Portfolio
 My Programming and Data Science Portfolio
 
-## [Project 1: NCAA Unbiased Rankings](https://github.com/mattgevercer/Computing-and-Machine-Learning-for-Economics/tree/main/ColleyRank)
+##Data Science and Statistics
+
+### [Project 1: NCAA Unbiased Rankings](https://github.com/mattgevercer/Computing-and-Machine-Learning-for-Economics/tree/main/ColleyRank)
 * Adapted Colley's unbiased method for ranking college football teams into python code using 2 different algorithms.
 * Wrote python code that scrapes historical NCAA football data from the web. 
 * [Click here for full description of the Colley Method](https://www.colleyrankings.com/matrate.pdf)
 
-## [Project 2: Classifying Handwritten Digits](https://github.com/mattgevercer/Digit-Recognition)
+### [Project 2: World Bank Data Scraper](https://github.com/mattgevercer/Computing-and-Machine-Learning-for-Economics/tree/main/World_Bank_Import)
+* Scrapes data for any given economic indicator from any given year on the World Bank website.
+* Parses the website's HTML using Beautiful Soup and outputs the data in a pandas DataFrame. 
+* [Click here for descriptions of World Bank Indicators](https://data.worldbank.org/indicator)
+
+##Machine Learning and Deep Learning
+
+### [Project 3: Classifying Handwritten Digits](https://github.com/mattgevercer/Digit-Recognition)
 * A computer vision program that shows the difference in accuracy for guessing handwritten digits between a regular dense neural network and a convolutional dense neural network. 
 * Visualizes how accuracy of predicting validation data improves over epochs. 
 * Achieved over 98% accuracy in classifying handwritten digits.
@@ -14,7 +23,7 @@ My Programming and Data Science Portfolio
 
 ![Digit Image](./images/Digits%20Figure.png?raw=true)
 
-## [Project 3: Predicting House Prices](https://github.com/mattgevercer/Cali_Housing)
+### [Project 4: Predicting House Prices](https://github.com/mattgevercer/Cali_Housing)
 * A dense neural network to predict the price of houses in California. 
 * Splits housing data into training and testing sets. 
 * Utilizes a callback to stop training once MSE loss has dropped below 0.5. 
@@ -22,6 +31,16 @@ My Programming and Data Science Portfolio
 * [Click here for dataset documentation](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
 
 ![Housing Image](./images/Housing%20Figure.png?raw=true)
+
+##Reinforcement Learning
+
+### [Project 5: The Prisoner's Dilemma](https://github.com/mattgevercer/Prisoners_Dilemma)
+* Creates a simple reinforcement learning environment (adapted from Open AI's gym) to simulate the Prisoner's Dilemma.
+* Simulates the Prisoner's Dilemma game between two epsilon-decreasing agents over 1000 Monte Carlo episodes. 
+* Tracks learning progess with a barplot and shows convergence towards a mutual defection strategy.
+* [Click here for more information on the Prisoner's Dilemma](https://www.investopedia.com/terms/p/prisoners-dilemma.asp)
+
+![Payoff Image](./images/Payoffs%20Figure.png?raw=true) ![PD Image](./images/PD_plot%20Figure.png?raw=true) 
 
 ## [Project 4: PageRank](https://github.com/mattgevercer/PageRank)
 * A program that ranks web pages based on importance for use in a search engine. 
