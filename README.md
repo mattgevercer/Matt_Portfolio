@@ -51,12 +51,15 @@ My Programming and Data Science Portfolio
 
 ![cliff_walking](images/cliff_walking.png) ![CW_plot](images/CW Bar Plot.png) 
 
-## [Project 4: PageRank](https://github.com/mattgevercer/PageRank)
-* A program that ranks web pages based on importance for use in a search engine. 
-* Samples states randomly from a Markov Chain to estimate each page's rank. 
-* [Click here for in-depth project description](https://cs50.harvard.edu/ai/2020/projects/2/pagerank/)
+## Games and Puzzles
 
-## [Project 5: Degrees](https://github.com/mattgevercer/Degrees)
+### [Project 7: Letter Boxed Solver](https://github.com/mattgevercer/Letter_Boxed_Solver)
+* Allows for user input of any 3-by-3 Letter Boxed puzzle.
+* Applies the Letter Boxed rules to subset a list of English words using combinatoric functions. 
+* Solves the puzzle with the shortest possible number of words.
+* [Click here to play Letter Boxed](https://www.nytimes.com/puzzles/letter-boxed)
+
+## [Project 8: Six Degrees of Kevin Bacon](https://github.com/mattgevercer/Degrees)
 * Finds the shortest path between any two actors using a breadth-first search algorithm. 
 * Returns the "path" (i.e. the films where two connected actors appeared with eachother). 
 * Returns the "steps" in the path (i.e. the number of degrees between the two actors). 
