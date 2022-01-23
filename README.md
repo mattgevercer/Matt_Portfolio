@@ -1,7 +1,7 @@
 # Matt_Portfolio
 My Programming and Data Science Portfolio
 
-##Data Science and Statistics
+## Data Science and Statistics
 
 ### [Project 1: NCAA Unbiased Rankings](https://github.com/mattgevercer/Computing-and-Machine-Learning-for-Economics/tree/main/ColleyRank)
 * Adapted Colley's unbiased method for ranking college football teams into python code using 2 different algorithms.
@@ -13,7 +13,7 @@ My Programming and Data Science Portfolio
 * Parses the website's HTML using Beautiful Soup and outputs the data in a pandas DataFrame. 
 * [Click here for descriptions of World Bank Indicators](https://data.worldbank.org/indicator)
 
-##Machine Learning and Deep Learning
+## Machine Learning and Deep Learning
 
 ### [Project 3: Classifying Handwritten Digits](https://github.com/mattgevercer/Digit-Recognition)
 * A computer vision program that shows the difference in accuracy for guessing handwritten digits between a regular dense neural network and a convolutional dense neural network. 
@@ -32,7 +32,7 @@ My Programming and Data Science Portfolio
 
 ![Housing Image](./images/Housing%20Figure.png?raw=true)
 
-##Reinforcement Learning
+## Reinforcement Learning
 
 ### [Project 5: The Prisoner's Dilemma](https://github.com/mattgevercer/Prisoners_Dilemma)
 * Creates a simple reinforcement learning environment (adapted from Open AI's gym) to simulate the Prisoner's Dilemma.
