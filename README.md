@@ -42,6 +42,15 @@ My Programming and Data Science Portfolio
 
 ![Payoffs](images/Payoffs.png) ![PD_plot](images/PD_plot.png) 
 
+### [Project 6: Cliff Walking](https://github.com/mattgevercer/Cliff_Walking)
+* Uses an enviroment programmed with OpenAI's gym library to simulate the Sutton and Barto Cliff Walking problem.
+* Utilizes a temporal difference learning method. 
+* Experiments with epsilon-greedy and epsilon-decreasing strategies.
+* Achieves an overall win rate of 51.88% after 10,000 epsiodes. 
+* [Click here for more information on the Cliff Walking environment](https://github.com/caburu/gym-cliffwalking)
+
+![cliff_walking](images/cliff_walking.png) ![CW_plot](images/CW Bar Plot.png) 
+
 ## [Project 4: PageRank](https://github.com/mattgevercer/PageRank)
 * A program that ranks web pages based on importance for use in a search engine. 
 * Samples states randomly from a Markov Chain to estimate each page's rank. 
