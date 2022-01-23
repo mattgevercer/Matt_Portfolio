@@ -15,22 +15,28 @@ My Programming and Data Science Portfolio
 
 ## Machine Learning and Deep Learning
 
-### [Project 3: Classifying Handwritten Digits](https://github.com/mattgevercer/Digit-Recognition)
+### [Project 3: Classifying American Sign Language Letters](https://github.com/mattgevercer/ASL_Classifier)
+* Constructs a neural network for classifying pictures of American Sign Language letters. 
+* Achieves around 93% accuracy in classifying images in a validation dataset. 
+* Visualizes training loss versus validation loss as training progresses to gauge overfitting in the model. 
+* [Click here for dataset documentation](https://www.kaggle.com/datamunge/sign-language-mnist)
+
+![ASL_Train](images/ASL_Train.png) ![ASL_AC](images/ASL_AC.png)
+
+### [Project 4: Classifying Handwritten Digits](https://github.com/mattgevercer/Digit-Recognition)
 * A computer vision program that shows the difference in accuracy for guessing handwritten digits between a regular dense neural network and a convolutional dense neural network. 
-* Visualizes how accuracy of predicting validation data improves over epochs. 
 * Achieved over 98% accuracy in classifying handwritten digits.
+* Visualizes how accuracy of predicting validation data improves as training progresses. 
 * [Click here for dataset documentation](http://yann.lecun.com/exdb/mnist/)
 
 ![Digit Image](./images/Digits%20Figure.png?raw=true)
 
-### [Project 4: Predicting House Prices](https://github.com/mattgevercer/Cali_Housing)
+### [Project 5: Predicting House Prices](https://github.com/mattgevercer/Cali_Housing)
 * A dense neural network to predict the price of houses in California. 
 * Splits housing data into training and testing sets. 
 * Utilizes a callback to stop training once MSE loss has dropped below 0.5. 
 * Visualizes training loss versus validation loss over the epochs to gauge overfitting in model. 
 * [Click here for dataset documentation](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
-
-![Housing Image](./images/Housing%20Figure.png?raw=true)
 
 ## Reinforcement Learning
 
