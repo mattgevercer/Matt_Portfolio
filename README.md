@@ -31,16 +31,15 @@ My Programming and Data Science Portfolio
 
 ![Digit Image](./images/Digits%20Figure.png?raw=true)
 
-### [Project 5: Predicting House Prices](https://github.com/mattgevercer/Cali_Housing)
-* A dense neural network to predict the price of houses in California. 
-* Splits housing data into training and testing sets. 
-* Utilizes a callback to stop training once MSE loss has dropped below 0.5. 
-* Visualizes training loss versus validation loss over the epochs to gauge overfitting in model. 
+### [Project 5: Predicting House Prices](https://github.com/mattgevercer/Computing-and-Machine-Learning-for-Economics/tree/main/Model_Selection)
+* Implements k-fold cross-validation in scikit-learn. 
+* Implements two algorithms for finding the best subset of linear predictors for a dependent variable. 
+* Tests the subsetting alorgithms by building a linear model to predict house prices in California. 
 * [Click here for dataset documentation](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
 
 ## Reinforcement Learning
 
-### [Project 5: The Prisoner's Dilemma](https://github.com/mattgevercer/Prisoners_Dilemma)
+### [Project 6: The Prisoner's Dilemma](https://github.com/mattgevercer/Prisoners_Dilemma)
 * Creates a simple reinforcement learning environment (adapted from Open AI's gym) to simulate the Prisoner's Dilemma.
 * Simulates the Prisoner's Dilemma game between two epsilon-decreasing agents over 1000 Monte Carlo episodes. 
 * Tracks learning progess with a barplot and shows convergence towards a mutual defection strategy.
@@ -48,7 +47,7 @@ My Programming and Data Science Portfolio
 
 ![Payoffs](images/Payoffs.png) ![PD_plot](images/PD_plot.png) 
 
-### [Project 6: Cliff Walking](https://github.com/mattgevercer/Cliff_Walking)
+### [Project 7: Cliff Walking](https://github.com/mattgevercer/Cliff_Walking)
 * Uses an enviroment programmed with OpenAI's gym library to simulate the Sutton and Barto Cliff Walking problem.
 * Utilizes a temporal difference learning method. 
 * Experiments with epsilon-greedy and epsilon-decreasing strategies.
@@ -59,13 +58,13 @@ My Programming and Data Science Portfolio
 
 ## Games and Puzzles
 
-### [Project 7: Letter Boxed Solver](https://github.com/mattgevercer/Letter_Boxed_Solver)
+### [Project 8: Letter Boxed Solver](https://github.com/mattgevercer/Letter_Boxed_Solver)
 * Allows for user input of any 3-by-3 New York Times Letter Boxed puzzle.
 * Applies the Letter Boxed rules to subset a list of English words using combinatoric functions. 
 * Solves the puzzle with the shortest possible number of words.
 * [Click here to play Letter Boxed](https://www.nytimes.com/puzzles/letter-boxed)
 
-### [Project 8: Six Degrees of Kevin Bacon](https://github.com/mattgevercer/Degrees)
+### [Project 9: Six Degrees of Kevin Bacon](https://github.com/mattgevercer/Degrees)
 * Finds the shortest path between any two actors using a breadth-first search algorithm. 
 * Returns the "path" (i.e. the films where two connected actors appeared with eachother). 
 * Returns the "steps" in the path (i.e. the number of degrees between the two actors). 
