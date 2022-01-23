@@ -59,7 +59,7 @@ My Programming and Data Science Portfolio
 * Solves the puzzle with the shortest possible number of words.
 * [Click here to play Letter Boxed](https://www.nytimes.com/puzzles/letter-boxed)
 
-## [Project 8: Six Degrees of Kevin Bacon](https://github.com/mattgevercer/Degrees)
+### [Project 8: Six Degrees of Kevin Bacon](https://github.com/mattgevercer/Degrees)
 * Finds the shortest path between any two actors using a breadth-first search algorithm. 
 * Returns the "path" (i.e. the films where two connected actors appeared with eachother). 
 * Returns the "steps" in the path (i.e. the number of degrees between the two actors). 
