@@ -40,8 +40,7 @@ My Programming and Data Science Portfolio
 * Tracks learning progess with a barplot and shows convergence towards a mutual defection strategy.
 * [Click here for more information on the Prisoner's Dilemma](https://www.investopedia.com/terms/p/prisoners-dilemma.asp)
 
-![Payoff Image](./images/Payoffs%20Figure.png?raw=true) 
-![PD Image](./images/PD_plot%20Figure.png?raw=true) 
+![Payoffs Figure](./images/Payoffs%20Figure.png?raw=true) ![PD_plot](./images/PD_plot%20Figure.png?raw=true) 
 
 ## [Project 4: PageRank](https://github.com/mattgevercer/PageRank)
 * A program that ranks web pages based on importance for use in a search engine. 
