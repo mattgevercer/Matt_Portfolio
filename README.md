@@ -54,7 +54,7 @@ My Programming and Data Science Portfolio
 ## Games and Puzzles
 
 ### [Project 7: Letter Boxed Solver](https://github.com/mattgevercer/Letter_Boxed_Solver)
-* Allows for user input of any 3-by-3 Letter Boxed puzzle.
+* Allows for user input of any 3-by-3 New York Times Letter Boxed puzzle.
 * Applies the Letter Boxed rules to subset a list of English words using combinatoric functions. 
 * Solves the puzzle with the shortest possible number of words.
 * [Click here to play Letter Boxed](https://www.nytimes.com/puzzles/letter-boxed)
