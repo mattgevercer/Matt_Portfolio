@@ -4,7 +4,7 @@ My Programming and Data Science Portfolio
 ## Data Science and Statistics
 
 ### [Project 1: NCAA Unbiased Rankings](https://github.com/mattgevercer/Computing-and-Machine-Learning-for-Economics/tree/main/ColleyRank)
-* Adapted Colley's unbiased method for ranking college football teams into python code using 2 different algorithms.
+* Adapted Colley's unbiased method for ranking college football teams into python code using two different algorithms.
 * Wrote python code that scrapes historical NCAA football data from the web. 
 * [Click here for full description of the Colley Method](https://www.colleyrankings.com/matrate.pdf)
 
@@ -34,7 +34,7 @@ My Programming and Data Science Portfolio
 ### [Project 5: Predicting House Prices](https://github.com/mattgevercer/Computing-and-Machine-Learning-for-Economics/tree/main/Model_Selection)
 * Implements k-fold cross-validation in scikit-learn. 
 * Implements two algorithms for finding the best subset of linear predictors for a dependent variable. 
-* Tests the subsetting alorgithms by building a linear model to predict house prices in California. 
+* Tests the subsetting algorithms by building a linear model to predict house prices in California. 
 * [Click here for dataset documentation](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
 
 ## Reinforcement Learning
